@@ -43,4 +43,4 @@ Otherwise, it prints the number.](Day17.md)
 Is the digit present in the number? If yes, return True. If no, return False.](Day19.md)
 20.[JugsMugsPugsPlus and Reverse
 Write a program that receives a number on the input.
-It also should receive another value 'rev'  (either 0 or 1) on the input. ](Day20.md)
+It also should receive another value 'rev'  (either 0 or 1) on the input. ](day20.md)
