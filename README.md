@@ -41,3 +41,6 @@ Otherwise, it prints the number.](Day17.md)
 18. [Jugs for Three Write a program that receives a number on the input. If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](Day18.md)
 19. [Digit in Number Read two inputs. The first input is a digit. The second input is a number.
 Is the digit present in the number? If yes, return True. If no, return False.](Day19.md)
+20.[JugsMugsPugsPlus and Reverse
+Write a program that receives a number on the input.
+It also should receive another value 'rev'  (either 0 or 1) on the input. ](Day20.md)
